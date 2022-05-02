@@ -1,4 +1,4 @@
-## [Simon N.X. Ren](https://github.com/simonnxren/simonnxren.github.io/edit/main/about.md)
+## [Simon N.X. Ren](https://github.com/simonnxren/simonnxren.github.io/blob/main/about.md)
 
 You can use the [editor on GitHub](https://github.com/simonnxren/simonnxren.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
