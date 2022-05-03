@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+# Site Info
+title:              "My Blog"
+description:        "Resume and Notes"
+author_name:        "Simon NingXiao Ren" 
