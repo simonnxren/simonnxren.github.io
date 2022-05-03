@@ -4,3 +4,8 @@ theme: jekyll-theme-cayman
 title:              "My Blog"
 description:        "Resume and Notes"
 author_name:        "Simon NingXiao Ren" 
+
+# Site Settings
+url:                https://simonnxren.github.io # main url
+baseurl:            /myblog
+permalink:          /:title # Post permalink
