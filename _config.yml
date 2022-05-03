@@ -1,10 +1,8 @@
-theme: jekyll-theme-leap-day
-
 # Site Info
 title:              "My Blog"
 description:        "Resume and Notes"
 author_name:        "Simon NingXiao Ren" 
-
+theme: jekyll-theme-leap-day
 # Site Settings
 url:                https://simonnxren.github.io # main url
 #baseurl:            /about.html
