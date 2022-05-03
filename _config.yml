@@ -7,5 +7,5 @@ author_name:        "Simon NingXiao Ren"
 
 # Site Settings
 url:                https://simonnxren.github.io # main url
-baseurl:            /myblog
+baseurl:            /about.html
 permalink:          /:title # Post permalink
