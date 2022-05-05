@@ -2,7 +2,7 @@
 title:              "My Blog"
 description:        "Resume and Notes"
 author_name:        "Simon NingXiao Ren" 
-theme: the-plain #jekyll-theme-leap-day
+theme: jekyll-theme-leap-day
 
 # Site Settings
 url:                https://simonnxren.github.io # main url
