@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"> 
-  [Resume]() | [Linkedin](https://www.linkedin.com/in/ningxiao-ren-793036142/)
+  [Resume](/202203 Ningxiao Ren.pdf) | [Linkedin](https://www.linkedin.com/in/ningxiao-ren-793036142/)
 </p>
 
 ## Interests
