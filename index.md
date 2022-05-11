@@ -1,4 +1,4 @@
-<table class="bg_colour" border="0">
+<table class="bg_colour" style="width:100%;max-width:1080px;border:0px;border-spacing:10px;border-collapse:separate;margin-right:auto;margin-left:auto;background-color:rgba(255, 255, 255, 0.6);">
   <tbody>
     <tr style="padding:0px">
       <td style="padding:2%;width:45%;vertical-align:middle">
