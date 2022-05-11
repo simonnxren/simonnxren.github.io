@@ -1,18 +1,17 @@
 # Simon N.X. Ren
-<table class="bg_colour" style="width:1style00%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<table class="bg_colour" border="0">
   <tbody>
-    <tr>
-      <td>
-      <p style="text-align:left">
-
-        I completed my undergraduate degreee in Electrical Engineering at UBC. During the study, I have worked as a silicon validation           intern at Intel of Canada for a 8-month period. It is the time when I got interested in and start to learn about machine learning         and deep learning.
+    <tr style="padding:0px">
+      <td style="padding:2%;width:45%;vertical-align:middle">
+      <p>
+        I completed my undergraduate degreee in Electrical Engineering at UBC. During the study, I have worked as a silicon validation intern at Intel of Canada for a 8-month period. It is the time when I got interested in and start to learn about machine learning and deep learning.
         <br>
         <br>
-        In 2020, I started my graudate study in Master of Engineering program in Electrical and Computer Engineering at UBC. It is a             course-based program. But I got chances to take ML/DL related courses from various areas.
+        In 2020, I started my graudate study in Master of Engineering program in Electrical and Computer Engineering at UBC. It is a course-based program. But I got chances to take ML/DL related courses from various areas.
         <br>
         </p>
       </td>
-      <td>
+      <td style="padding:2%;width:25%;max-width:40%;">
         <img style="width:100%;max-width:100%" src="/me.png">
       </td>
     </tr>
