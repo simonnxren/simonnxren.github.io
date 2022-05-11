@@ -1,5 +1,5 @@
 # Simon N.X. Ren
-<table>
+<table class="bg_colour" style="width:1style00%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
     <tr>
       <td>
