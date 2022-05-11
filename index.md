@@ -1,4 +1,3 @@
-# Simon N.X. Ren
 <table class="bg_colour" border="0">
   <tbody>
     <tr style="padding:0px">
