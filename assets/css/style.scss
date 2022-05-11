@@ -3,4 +3,4 @@
 
 @import "{{ site.theme }}";
 
-table, tr, td {border: none;}
+table, tr, td {border-collapse:collapse; border: none;}
