@@ -1,4 +1,4 @@
-<table border="0">
+<table>
   <tbody>
     <tr style="padding:0px">
       <td style="padding:2%;width:45%;vertical-align:middle">
