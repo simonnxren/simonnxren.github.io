@@ -3,6 +3,7 @@ I completed my undergraduate degreee in Electrical Engineering at UBC. During th
 
 In 2020, I started my graudate study in Master of Engineering program in Electrical and Computer Engineering at UBC. It is a course-based program. But I got chances to take ML/DL related courses from various areas. 
 
+![simon](/me.png)
 ## Interests
 
 ## Blogs
